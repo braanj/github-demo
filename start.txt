@@ -20,4 +20,4 @@ Basics of VIM: https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
         :help <command> → Show help about <command>. You can use :help without a <command> to get general help.
 
 
-:
+
