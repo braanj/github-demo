@@ -1,3 +1,23 @@
 Test Git Quick Start demo
+
 Basic command of Git: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
 Basics of VIM: https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+
+1st level - Survive
+
+
+
+        i → Insert mode. Type ESC to return to Normal mode.
+        x → Delete the char under the cursor
+        :wq → Save and Quit (:w save, :q quit)
+        dd → Delete (and copy) the current line
+        p → Paste
+
+    Recommended:
+
+        hjkl (highly recommended but not mandatory) → basic cursor move (←↓↑→). Hint: j looks like a down arrow.
+        :help <command> → Show help about <command>. You can use :help without a <command> to get general help.
+
+
+:
