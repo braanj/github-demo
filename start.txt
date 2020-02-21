@@ -1,1 +1,3 @@
 Test Git Quick Start demo
+Basic command of Git: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+Basics of VIM: https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
